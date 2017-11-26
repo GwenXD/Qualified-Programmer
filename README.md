@@ -1,6 +1,6 @@
-# Qualified-Programmer
+# 合格程序员计划
 
-## 努力学习，坚持锻炼计划
+## 努力学习，坚持锻炼
 
 想法参考了 [sofish](https://github.com/sofish) 的 [天天写代码计划](https://github.com/sofish/everyday)。
 
