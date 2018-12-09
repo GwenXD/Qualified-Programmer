@@ -2,6 +2,8 @@
 
 ## 努力学习，坚持锻炼
 
+(2018.12.9 恢复更新)
+
 想法参考了 [sofish](https://github.com/sofish) 的 [天天写代码计划](https://github.com/sofish/everyday)。
 
 ## 为什么建立此计划
