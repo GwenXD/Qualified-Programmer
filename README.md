@@ -2,7 +2,7 @@
 
 ## 努力学习，坚持锻炼
 
-(2018.12.9 恢复更新)
+(已停止更新，但锻炼从未停止)
 
 想法参考了 [sofish](https://github.com/sofish) 的 [天天写代码计划](https://github.com/sofish/everyday)。
 
